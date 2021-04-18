@@ -14,9 +14,6 @@
 
 ## <span style="color:#004680"> 🛠 &nbsp; 기술 스택 </span>
 
-- Python, Flask
-- Bcrypt
-- MySQL
 - React 
 - Javascript(ES6+)
 - styled-component
@@ -26,16 +23,12 @@
 
 ## <span style="color:#004680"> 🖥 &nbsp; 나의 기능 구현 사항 </span>
 
-- 메인 페이지
-  - navigation bar 
-  - header, footer
-
-- 회원 정보 관리
-  - 레이아웃만 구현
-
-- 회원 정보 수정 페이지
-  - 이미지 업로드
-  - useform 
-  - validation check 
+- 주문 관리
+  - 검색어 필터 기능
+  - 셀러 속성 체크 버튼
+  - 최신주문일 / 역순 필터
+  - 테이블 체크박스
+  - 페이지네이션
+  - POST, GET을 통한 네트워크 통신 및 상태 변경
 
 [프로젝트 영상](https://youtu.be/kSk97ydLf-w)
